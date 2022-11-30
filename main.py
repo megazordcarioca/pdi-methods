@@ -9,5 +9,5 @@ def abrirImagem():
     cv2.waitKey(0)
 
 
-print(abrirImagem())
+print(abirImagem())
 
